@@ -1,6 +1,6 @@
-# webpack-basics
+# emotion
 
-a template for making a bare-bones webpack react app. 
+practicing with the emotion style library
 
 `npm i` to install node dependencies
 
